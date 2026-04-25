@@ -12,7 +12,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isle4525&repo=Voxelborn&theme=shadow_blue" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isle4525&repo=ToDoWeb&theme=shadow_blue" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isle4525&repo=go-library-api&theme=shadow_blue" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isle4525&repo=NovelVerse&theme=shadow_blue" /></td>
   </tr>
 </table>
