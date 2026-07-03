@@ -1,8 +1,17 @@
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/Ancientsungod) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aitkazyislam42@gmail.com)
 
-## 👤 About Me:
-Hi! I’m a Backend Developer passionate about building scalable, maintainable, and reliable server-side applications. I enjoy solving technical challenges, writing clean code, and continuously learning new technologies and architectural approaches to create high-quality software. 
+## 👤 About Me
+
+```text
+💻 Backend Development
+🏗 Clean Architecture & System Design
+⚙️ Java (Spring Boot) 
+🗄 PostgreSQL • Redis • Docker
+📚 Always learning and improving
+```
+
+I enjoy building scalable backend systems, exploring modern technologies, and continuously improving my software engineering skills.
 
 For me, software engineering is about staying curious—I'm always ready to adapt to new tools, dive into unfamiliar stacks, and explore how complex systems work under the hood.
 
