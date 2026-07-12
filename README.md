@@ -1,17 +1,4 @@
-<h1 align="center">
-    Hi there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-    <br/>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer.;Spring+Boot+Developer.;Learning+Go+and+Distributed+Systems.;Always+ready+to+learn+something+new.&center=true&width=800&height=60&font=georgia"
-            style="width:100%;height:auto;"
-            alt="Typing SVG"
-        />
-    </a>
-</h1>
 
-<hr/>
 
 <h2>👤 About Me</h2>
 
@@ -42,7 +29,7 @@ I'm always ready to adapt to new tools, dive into unfamiliar stacks, and explore
       <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      
     </td>
   </tr>
 
