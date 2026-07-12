@@ -17,8 +17,9 @@ I'm always ready to adapt to new tools, dive into unfamiliar stacks, and explore
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/SQL-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQL-orange?style=flat-square"/> 
     </td>
+    
   </tr>
 
   <tr>
@@ -28,8 +29,7 @@ I'm always ready to adapt to new tools, dive into unfamiliar stacks, and explore
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-      
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> 
     </td>
   </tr>
 
