@@ -37,6 +37,16 @@ Backend developer focused on Java and Spring Boot. I build REST APIs and backend
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=mockito&logoColor=white"/>
     </td>
   </tr>
 
