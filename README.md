@@ -14,7 +14,6 @@ Backend developer focused on Java and Spring Boot. I build REST APIs and backend
     <td><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/SQL-orange?style=flat-square"/> 
     </td>
