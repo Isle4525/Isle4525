@@ -3,8 +3,7 @@
 <h2>👤 About Me</h2>
 
 <p>
-I'm always ready to adapt to new tools, dive into unfamiliar stacks, and explore how complex systems work under the hood.
-</p>
+Backend developer focused on Java and Spring Boot. I build REST APIs and backend services using PostgreSQL, JPA/Hibernate, Redis and Docker. Interested in system design, infrastructure and understanding how software works under the hood.</p>
 
 <hr/>
 
