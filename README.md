@@ -8,13 +8,6 @@
 <hr/>
 
 
-<h2>👤 About Me</h2>
-
-<p>
-Backend developer focused on Java and Spring Boot. I build REST APIs and backend services using PostgreSQL, JPA/Hibernate, Redis and Docker. Interested in system design, infrastructure and understanding how software works under the hood.</p>
-
-<hr/>
-
 <h2>💻 Tech Stack</h2>
 
 <table width="100%">
